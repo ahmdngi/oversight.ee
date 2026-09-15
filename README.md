@@ -1,8 +1,15 @@
-# cyber.oversight.ee
+# oversight.ee
 
 **Oversight** — maritime & fleet cybersecurity. Free vessel exposure scan, automated fleet-wide monitoring, and edge data collection.
 
-Company website — **https://www.oversight.ee** (GitHub Pages).
+## Live sites
+
+| Site | URL |
+| --- | --- |
+| Corporate site (this repo) | **https://www.oversight.ee** |
+| Product site | **https://cyber.oversight.ee** |
+
+Both are static sites served via GitHub Pages. Push to `main` auto-deploys.
 
 ## Pages
 
