@@ -6,8 +6,8 @@
 
 | Site | URL |
 | --- | --- |
-| Corporate site (this repo) | **https://www.oversight.ee** |
-| Product site | **https://cyber.oversight.ee** |
+| Corporate site (this repo) | [www.oversight.ee](https://www.oversight.ee) |
+| Product site | [cyber.oversight.ee](https://cyber.oversight.ee) |
 
 Both are static sites served via GitHub Pages. Push to `main` auto-deploys.
 
